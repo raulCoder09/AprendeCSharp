@@ -1,0 +1,14 @@
+/home/rulo/Documents/repositories/books/AprendeCSharp/AprendeCSharp/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/rulo/Documents/repositories/books/AprendeCSharp/AprendeCSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/rulo/Documents/repositories/books/AprendeCSharp/AprendeCSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/rulo/Documents/repositories/books/AprendeCSharp/AprendeCSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/rulo/Documents/repositories/books/AprendeCSharp/AprendeCSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/rulo/Documents/repositories/books/AprendeCSharp/AprendeCSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/rulo/Documents/repositories/books/AprendeCSharp/AprendeCSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/rulo/Documents/repositories/books/AprendeCSharp/AprendeCSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/rulo/Documents/repositories/books/AprendeCSharp/AprendeCSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/rulo/Documents/repositories/books/AprendeCSharp/AprendeCSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/rulo/Documents/repositories/books/AprendeCSharp/AprendeCSharp/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/rulo/Documents/repositories/books/AprendeCSharp/AprendeCSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/rulo/Documents/repositories/books/AprendeCSharp/AprendeCSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/rulo/Documents/repositories/books/AprendeCSharp/AprendeCSharp/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
